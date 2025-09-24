@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Happy Anniversary!",
-  description: "A celebration of our love",
+  title: "Happy Birthday Mr.J",
+  description: "Энэ жилийн хамгийн сайхан нь чи",
 }
 
 export default function RootLayout({ children }) {
